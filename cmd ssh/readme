@@ -1,1 +1,10 @@
+Aws Configure
 
+check access key 
+aws key from iam user goto security credential get access key id
+
+
+ec2-user@(your ip address)
+
+
+ec2-user@(your ip address) -i qw.pem --- it check ip lform cmd
